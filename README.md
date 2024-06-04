@@ -25,13 +25,13 @@ To run the project locally, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
     ```
-    git clone 
+    git clone https://github.com/waqarahmad134/Search-Github-Users.git
     ```
 
 2. Navigate to the project directory:
 
     ```
-    cd Github-Repo-Search
+    cd Search-Github-Users
     ```
 
 3. Install all node modules.
