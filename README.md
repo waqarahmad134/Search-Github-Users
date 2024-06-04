@@ -1,12 +1,12 @@
 
 
-# GitHub Repo Search Project
+# Search Github Users Project
 
 This project for searching GitHub repositories and their details
 
 ## About
 
-The GitHub Repo Search Project allows users to search for GitHub repositories by entering a keyword. It retrieves repository data using the GitHub REST API and displays the results dynamically on the web page.
+The Search Github Users Project allows users to search for GitHub repositories by entering a keyword. It retrieves repository data using the GitHub REST API and displays the results dynamically on the web page.
 
 ## Tools and Technologies Used
 
